@@ -11,6 +11,9 @@ The Application collects information when you download and use it. This informat
 *   The time spent on the Application
 *   The operating system you use on your mobile device
 
+we collect all logs and crashes for providing better experience. we user firebase auth which is not linked to your personal identity. we collect app activity ( which is Anonymous tracking). your personal data is not collected nor shared.
+
+
 The Application does not gather precise information about the location of your mobile device.
 
 The Application collects your device's location, which helps the Service Provider determine your approximate geographical location and make use of in below ways:
